@@ -208,19 +208,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\SeenumalavanRajadura\\.nuget\\packages\\": {}
+    "C:\\Users\\NaveenBathina\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Personal Git Repo\\Learnings\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "D:\\Learning\\Seenu\\Learnings\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "D:\\Personal Git Repo\\Learnings\\WebApi\\WebApi.csproj",
-      "packagesPath": "C:\\Users\\SeenumalavanRajadura\\.nuget\\packages\\",
-      "outputPath": "D:\\Personal Git Repo\\Learnings\\WebApi\\obj\\",
+      "projectPath": "D:\\Learning\\Seenu\\Learnings\\WebApi\\WebApi.csproj",
+      "packagesPath": "C:\\Users\\NaveenBathina\\.nuget\\packages\\",
+      "outputPath": "D:\\Learning\\Seenu\\Learnings\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\SeenumalavanRajadura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\NaveenBathina\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -228,7 +228,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://kdi.jfrog.io/artifactory/api/nuget/nuget": {}
       },
       "frameworks": {
         "net6.0": {

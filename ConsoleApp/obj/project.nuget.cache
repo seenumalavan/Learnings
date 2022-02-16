@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "KvLT5zv5x9Jr2FIQrBywqZeD8e+rnfK4UAwT+vcKgsQkoojDtNKkpSwczjqNoD1ic8RkcNSfvHrHCRnp0n2Kgg==",
+  "dgSpecHash": "7+uOq1F3I0bHFk8yWQdA0q+RQGO3O76VhQMQPdYA7cMbt4CBYlni9FCuWnne1197VJmw1U2o6OvH4h4x0AlDCQ==",
   "success": true,
-  "projectFilePath": "D:\\Personal Git Repo\\Learnings\\ConsoleApp\\ConsoleApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Learning\\Seenu\\Learnings\\ConsoleApp\\ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NaveenBathina\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
+    "C:\\Users\\NaveenBathina\\.nuget\\packages\\grpc.core.api\\2.42.0\\grpc.core.api.2.42.0.nupkg.sha512",
+    "C:\\Users\\NaveenBathina\\.nuget\\packages\\grpc.net.client\\2.42.0\\grpc.net.client.2.42.0.nupkg.sha512",
+    "C:\\Users\\NaveenBathina\\.nuget\\packages\\grpc.net.common\\2.42.0\\grpc.net.common.2.42.0.nupkg.sha512",
+    "C:\\Users\\NaveenBathina\\.nuget\\packages\\grpc.tools\\2.44.0\\grpc.tools.2.44.0.nupkg.sha512",
+    "C:\\Users\\NaveenBathina\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\NaveenBathina\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
   "logs": []
 }
